@@ -2,7 +2,7 @@ import React from "react";
 import heroimage from "../public/heroimage.jpg";
 import Image from "next/image";
 
-const AboutContent = () => {
+const AboutPage = () => {
   return (
     <div className="flex items-center w-full p-2 py-16 md:h-screen">
       <div className="grid max-w-6xl gap-12 mx-auto md:grid-cols-2">
@@ -42,4 +42,4 @@ const AboutContent = () => {
   );
 };
 
-export default AboutContent;
+export default AboutPage;

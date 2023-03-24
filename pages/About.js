@@ -1,8 +1,8 @@
-import AboutContent from "../components/AboutContent.jsx";
+import AboutForm from "../components/AboutForm";
 
 function AboutPage () {
     return (
-    <AboutContent />
+    <AboutForm />
  )
 }
 
