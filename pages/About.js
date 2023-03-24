@@ -1,6 +1,6 @@
 import AboutForm from "../components/AboutForm";
 
-function AboutPage () {
+const AboutPage = () => {
     return (
     <AboutForm />
  )
