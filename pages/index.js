@@ -2,7 +2,7 @@ import Categorie from '@/components/Categorie'
 import Hero from '@/components/Hero'
 import Services from '@/components/Services'
 import Head from 'next/head'
-import AboutPage from './About'
+
 
 export default function Home() {
   return (
