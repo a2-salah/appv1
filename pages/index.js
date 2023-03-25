@@ -1,6 +1,6 @@
-import Categorie from '@/components/Categorie'
-import Hero from '@/components/Hero'
-import Services from '@/components/Services'
+import Categorie from '/components/Categorie'
+import Hero from '/components/Hero'
+import Services from '/components/Services'
 import Head from 'next/head'
 
 
