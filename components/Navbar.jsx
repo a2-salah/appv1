@@ -71,6 +71,9 @@ const Navbar = () => {
         <Link href="/" className="p-5 hover:text-green-700">
           About
         </Link>
+        <Link href="/Contact" className="p-5 hover:text-green-700">
+          Contact
+        </Link>
 
         <div className="flex flex-col items-center gap-5 mt-48">
           <div className="bg-green-600 w-[250px] h-[1px]"></div>
