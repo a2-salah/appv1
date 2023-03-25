@@ -11,26 +11,26 @@ import Button from "./Button";
 
 const categories = [
   {
-    name: "Globe",
+    name: "Program 1",
     description: "",
     image: Globe,
     btnText: "Learn More",
   },
   {
-    name: "Helping",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    name: "Program 2",
+    description: "",
     image: Helping,
     btnText: "Learn More",
   },
   {
-    name: "Housing",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    name: "Program 3",
+    description: "",
     image: Housing,
     btnText: "Learn More",
   },
   {
-    name: "Travel",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    name: "Program 4",
+    description: "",
     image: Travel,
     btnText: "Learn More",
   },
