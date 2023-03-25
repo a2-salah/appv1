@@ -17,10 +17,13 @@ const Hero = () => {
 
           <div className="">
             <h1 className="py-2 font-semibold tracking-wider md:text-3xl lg:text-5xl text 2xl">
-              <span className="text-green-600 "> Refugee Settlement </span>{" "}
+              <span className="text-green-600 ">
+                {" "}
+                Refugee Settlement Services{" "}
+              </span>{" "}
             </h1>
           </div>
-          <div className=" mx-auto bg-green-600 h-[2px] w-[150px]"></div>
+          <div className=" mx-auto bg-green-600 h-[2px] w-[450px]"></div>
           <div>
             <p className="py-4 text-sm tracking-widest text-gray-300 md:text-xl ">
               {" "}
