@@ -23,7 +23,7 @@ const Hero = () => {
               </span>{" "}
             </h1>
           </div>
-          <div className=" mx-auto bg-green-600 h-[2px] w-[450px]"></div>
+          <div className=" mx-auto bg-green-600 h-[2px] w-[150px]"></div>
           <div>
             <p className="py-4 text-sm tracking-widest text-gray-300 md:text-xl ">
               {" "}
