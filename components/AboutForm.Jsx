@@ -1,5 +1,5 @@
 import React from "react";
-import heroimage from "../public/heroimage.jpg";
+import logo from "../public/logo.png";
 import Image from "next/image";
 
 const AboutPage = () => {
@@ -35,7 +35,7 @@ const AboutPage = () => {
           </p>
         </div>
         <div className="flex justify-center">
-          <Image src={heroimage} alt="aboutimage" height={400} width={400} />
+          <Image src={logo} alt="aboutimage" height={600} width={600} />
         </div>
       </div>
     </div>
