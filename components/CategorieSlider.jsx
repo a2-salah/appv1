@@ -12,7 +12,7 @@ import Button from "./Button";
 const categories = [
   {
     name: "Globe",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    description: "",
     image: Globe,
     btnText: "Learn More",
   },
